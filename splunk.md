@@ -63,14 +63,16 @@ This guide documents the setup of **Splunk Enterprise** on an Ubuntu server and 
 
 ---
 
-## 📸 Optional: Add Proof Screenshots
+##   Screenshots
 
-Place screenshots in a `screenshots/` folder and embed them:
 
-```markdown
-![Splunk Web UI](./screenshots/splunk-web.png)
+
+
+[Splunk Web UI](./screenshots/splunk-web.png)
+
+
 [Forwarder Config](./screenshots/forwarder-setup.png)
-```
+
 
 ---
 
@@ -85,6 +87,5 @@ Place screenshots in a `screenshots/` folder and embed them:
 
 ---
 
-**Author**: [Your Name]  
-**Repo**: `mini-soc-lab`  
+
 🔐 Learn more at [docs.splunk.com](https://docs.splunk.com)
