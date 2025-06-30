@@ -69,7 +69,7 @@ Place screenshots in a `screenshots/` folder and embed them:
 
 ```markdown
 ![Splunk Web UI](./screenshots/splunk-web.png)
-![Forwarder Config](./screenshots/forwarder-setup.png)
+[Forwarder Config](./screenshots/forwarder-setup.png)
 ```
 
 ---
