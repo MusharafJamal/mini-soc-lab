@@ -54,6 +54,8 @@ notepad ossec.conf
 
 ```
 now the agent should be connected to the server
+# screenshot
+[wazuh kibana UI](./screenshots/wazuh-kibana-ui.png)
 
 
 
